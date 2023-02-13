@@ -33,6 +33,15 @@ const Hero = () => (
         fees.
       </p>
     </div>
+    <div className={`relative flex flex-1 ${styles.flexCenter} my-10 md:my-0`}>
+      <img src={robot} alt="billing" className="relative z-[5] h-full w-full" />
+      <div className="pink__gradient absolute top-0 z-[0] h-[35%] w-[40%]" />
+      <div className="white__gradient absolute bottom-40 z-[1] h-[80%] w-[80%] rounded-full" />
+      <div className="blue__gradient absolute right-20 bottom-20 z-[2] h-[50%] w-[50%]" />
+    </div>
+    <div className={`ss:hidden ${styles.flexCenter}`}>
+      <GetStarted />
+    </div>
   </section>
 );
 
