@@ -22,6 +22,10 @@ module.exports = {
       lg: "1200px",
       xl: "1700px",
     },
+    fontSize: {
+      xl: "72px",
+      lg: "52px",
+    },
   },
   plugins: [],
 };
