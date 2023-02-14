@@ -138,3 +138,6 @@
   background: rgba(255, 255, 255, 0.6);
   filter: blur(750px);
 }
+.client__glow:hover {
+  filter: drop-shadow(0 0 1.5px rgb(255, 255, 255, 0.8)) brightness(90);
+}
