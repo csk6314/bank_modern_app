@@ -2,15 +2,15 @@
 
 For learning how to use Tailwind, clone fully react website with modern UI / UX using React JS
 
-[X] Setup
-[X] Structure & Layout
-[X] NavBar
-[X] Hero Section
-[X] Stats
-[X] Business Section
-[X] Billing Section
-[X] Card Deal
-[X] Testimonials
-[X] CTA Section
-[X] Footer
-[ ] Deployment
+- [x] Setup
+- [x] Structure & Layout
+- [x] NavBar
+- [x] Hero Section
+- [x] Stats
+- [x] Business Section
+- [x] Billing Section
+- [x] Card Deal
+- [x] Testimonials
+- [x] CTA Section
+- [x] Footer
+- [ ] Deployment
